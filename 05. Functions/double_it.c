@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 int double_it (int num)
     {   
         num *= 2;
